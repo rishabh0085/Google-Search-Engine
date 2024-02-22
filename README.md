@@ -1,4 +1,4 @@
-# Simple-Search-Engine
+# Google-Search-Engine
 
 #Introduction
 
@@ -87,3 +87,11 @@ To run this application locally:
 3.Start the Tomcat server.
 
 4.Access the application via your web browser at http://localhost:8080/SearchEngine/.
+
+-Screen Shots of Search-Engine: 
+
+![Screenshot (5)](https://github.com/rishabh0085/Google-Search-Engine/assets/52191143/32ea2462-6ade-4c2a-9b33-244fa76e8bf7)
+![Screenshot (6)](https://github.com/rishabh0085/Google-Search-Engine/assets/52191143/3a13e05a-c758-48a1-a25c-7faaf7d24ff4)
+![Screenshot (8)](https://github.com/rishabh0085/Google-Search-Engine/assets/52191143/b15d6a2e-f2ff-4d21-b1a1-67382b280386)
+![Screenshot (7)](https://github.com/rishabh0085/Google-Search-Engine/assets/52191143/b58ae44d-28e7-47f9-916a-cba08cc4aa9e)
+
